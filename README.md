@@ -1,4 +1,4 @@
-# dosfetch 
+# dosinfo
 
 A lightweight, multi-architecture system information utility designed to bring modern 'fetch' aesthetics directly to 16-bit real-mode DOS and vintage emulation environments. 
 
